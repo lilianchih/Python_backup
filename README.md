@@ -1,6 +1,6 @@
 The program “animate_sudoku” solves Sudoku problems and shows the process of solving the puzzles. 
 
-Input the problems in this form:
+Input the problems in this form:  
 6 0 0 0 1 0 0 3 7  
 3 8 0 0 0 7 0 0 9  
 0 0 9 0 2 4 0 0 0  
